@@ -23,4 +23,4 @@ In this project i have created a Crypto Landing Page. And i have learnt a lot of
 
 ### You can Check it Live on Below Link :
 
-[Project Live Link](https://azam-digital-marketing-home-page.netlify.app/)
+[Project Live Link](https://azam-crypto-landing-page.netlify.app/)
